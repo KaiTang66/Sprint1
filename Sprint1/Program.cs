@@ -31,14 +31,14 @@ namespace Versuch
             df = d - 2 * (m + c);
             h = 2 * m + c;
             Console.WriteLine("d ="+Convert.ToString(d));
-            Console.WriteLine("z="+Convert.ToString(z));
-            Console.WriteLine("m="+Convert.ToString(m));
-            Console.WriteLine("p="+Convert.ToString(p));
-            Console.WriteLine("h="+Convert.ToString(h));
-            Console.WriteLine("da="+Convert.ToString(da));
-            Console.WriteLine("df="+Convert.ToString(df));
-            Console.WriteLine("ha="+Convert.ToString(ha));
-            Console.WriteLine("hf="+Convert.ToString(hf));
+            Console.WriteLine("z ="+Convert.ToString(z));
+            Console.WriteLine("m ="+Convert.ToString(m));
+            Console.WriteLine("p ="+Convert.ToString(p));
+            Console.WriteLine("h ="+Convert.ToString(h));
+            Console.WriteLine("da ="+Convert.ToString(da));
+            Console.WriteLine("df ="+Convert.ToString(df));
+            Console.WriteLine("ha ="+Convert.ToString(ha));
+            Console.WriteLine("hf ="+Convert.ToString(hf));
             Console.ReadKey();
         }
     }
